@@ -1,0 +1,13 @@
+{
+  "checkToken": "/api/user/checkToken/",
+  "userLogin": "/api/user/login/",
+  "userView": "/api/user/",
+  "articleAdd": "/api/article/",
+  "articleUpdate": "/api/article",
+  "articleView": "/api/article",
+  "articleDelete": "/api/article",
+  "userRegister": "/api/user/register",
+  "userValid": "/api/user/valid",
+  "currentUserUpdate": "/api/user",
+  "articleRandom": "/api/article/random"
+}

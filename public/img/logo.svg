@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="50mm"
+   viewBox="0 0 150 50"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3629885"
+     inkscape:cx="289.46306"
+     inkscape:cy="98.505489"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1-6"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Calque 1"
+       id="layer1-6"
+       transform="matrix(3.817848,0,0,2.9005988,-191.59989,-73.963708)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="80.180855"
+         y="114.12409"
+         id="text44"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           x="80.180855"
+           y="114.12409"
+           style="stroke-width:0.264583" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.8405px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.346014;image-rendering:auto"
+         x="52.908401"
+         y="29.502293"
+         id="text60"
+         transform="matrix(0.97765404,0.13722601,0,1.0228567,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan58"
+           x="52.908401"
+           y="29.502293"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';stroke-width:0.346014" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.11025px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.273763;"
+         x="61.707092"
+         y="29.092243"
+         id="text64"
+         transform="scale(0.91485299,1.0930718)"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           x="61.707092"
+           y="29.092243"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.11025px;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff;stroke-width:0.273763;">Jour</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.84661px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.313211;"
+         x="70.41954"
+         y="30.849092"
+         id="text64-1"
+         transform="scale(0.79963057,1.2505775)"><tspan
+           sodipodi:role="line"
+           id="tspan62-0"
+           x="70.41954"
+           y="30.849092"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.84661px;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff;stroke-width:0.313211;">Mathématicien</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.209px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.405226;"
+         x="60.013287"
+         y="34.266655"
+         id="text1998"
+         transform="scale(0.84698928,1.1806525)"><tspan
+           sodipodi:role="line"
+           id="tspan1996"
+           x="60.013287"
+           y="34.266655"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Imprint MT Shadow';-inkscape-font-specification:'Imprint MT Shadow';stroke-width:0.405226;fill:#ffffff;">1</tspan></text>
+    </g>
+  </g>
+</svg>

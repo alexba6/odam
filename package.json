@@ -1,0 +1,37 @@
+{
+  "name": "odam",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "build": "next build",
+    "start": "node index.js",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jsonwebtoken": "^8.5.1",
+    "katex": "^0.12.0",
+    "mysql2": "^2.2.5",
+    "next": "10.0.6",
+    "node-sass": "^5.0.0",
+    "nodemailer": "^6.4.17",
+    "pg": "^8.5.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "^1.32.6",
+    "sequelize": "^6.5.0",
+    "styled-components": "^5.2.1",
+    "styled-jsx": "^3.4.2",
+    "suneditor-react": "^2.15.2"
+  }
+}
